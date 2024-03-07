@@ -9,14 +9,18 @@ As a diligent student exploring internship opportunities, I bring a diverse skil
 ### __Education__
 ##### Institution: University Of Manitoba
 Program: Science-BSc Major
+
 Major: Computer Science
+
 Expected Graduation Year: 2024-2025
 ### __Certifications__
 ##### Institution: Coursera
 Program: Google Cybersecurity Professional Certificate
+
 Expected Completion date: 2024-2025
 ##### Institution: Udemy
 Program: IOS App Development - Swift
+
 Expected Completion data: 2024-2025
 
 ### __Work Experience 1__
