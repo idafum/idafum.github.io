@@ -7,18 +7,18 @@
 As a diligent student exploring internship opportunities, I bring a diverse skill set including logistics, MS Office proficiency, programming, and data science expertise. With a passion for problem-solving and adaptability, I thrive in collaborative environments, eager to contribute positively and continuously enhance my skills 
 
 ### __Education__
-##### Institution: University Of Manitoba
+#### Institution: University Of Manitoba
 Program: Science-BSc Major
 
 Major: Computer Science
 
 Expected Graduation Year: 2024-2025
 ### __Certifications__
-##### Institution: Coursera
+#### Institution: Coursera
 Program: Google Cybersecurity Professional Certificate
 
 Expected Completion date: 2024-2025
-##### Institution: Udemy
+#### Institution: Udemy
 Program: IOS App Development - Swift
 
 Expected Completion data: 2024-2025
