@@ -1,4 +1,4 @@
-## Abstract
+## INTRODUCTION
 
 This readme document outlines the tasks and steps involved in formatting and hosting a document as a static website. We employ the general principles and tools as describe in Andrew Etter's book on _Modern Technical Writing_. It is recommended that you read this book to gain more insight as to why the following tools are used.
 
@@ -44,5 +44,10 @@ This readme document outlines the tasks and steps involved in formatting and hos
 13. Click the link below and follow the steps by step details on how to add a jekyll theme to your site.![Step13](https://github.com/idafum/idafum.github.io/blob/main/Step_13.png)
 
 
-
-
+## CONCLUSION
+Follwing the main tasks below and all the step they include, you will be able to successfully format and host a static website. Given the tools described in Ether's book, we've employed technical writing rules, utilizing the learning process as ether described, to attain knowledge, utilizing lightweight markup tools like Markdown which enforces a minimalistic design and using a distributed version control tool like GitHub to allow for project management and contributions
+- Learning your tools
+- Formatting your document
+- Create a repository using your GitHub account
+- Setting up GitHub Pages
+- Customising your static website with a Jekyll theme
