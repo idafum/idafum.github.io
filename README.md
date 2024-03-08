@@ -66,4 +66,12 @@ I would also like to acknowledge Andrew Etter, the author of the book Modern Tec
 
 I would also like to thank my group members namely, Neel and Brian for giving me feedback and highlighting important areas in this project. 
 
+## FAQs: 
+1.    Why is Markdown better than a word processor?
+      - Markdown overall is minimal which is best for writing up documentation. Markdown is also versatile and can be interpreted by systems.
+2.    Why is my resume not showing up?
+
+      - Remember to name your resume as index.md
+  
+
 
