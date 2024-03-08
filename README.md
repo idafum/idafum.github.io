@@ -25,8 +25,17 @@ This readme document outlines the tasks and steps involved in formatting and hos
     - Select _public_ to make your new repository accessible to anyone on the internet.
     - Click on _Add a README file_. This will add a markdown file where you can write a description of your working repository.
     - Leaving all other options to default, create the repository. This will bring you to the default main branch in your repository.
-  
-8.  
+
+8.   Click on the “+” sign again to upload your GFM formatted document to your repository.
+
+     - Any update/change to your repository is know as a _commit_
+### Setting up GitHub Pages
+
+9.    Click the icon below and open up settings.
+
+10.    Navigate to _Pages_
+11.    Select Branch to _main_ and Save.        
+
 
 
 
