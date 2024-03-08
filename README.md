@@ -36,7 +36,11 @@ This readme document outlines the tasks and steps involved in formatting and hos
 10.    Navigate to _Pages_
 11.    Select Branch to _main_ and Save.
        - This will set the source of your static website to the main branch of your repository.
-12. Reload the page after 2-3 minutes. Your static website URL will be generated.        
+12. Reload the page after 2-3 minutes. Your static website URL will be generated.
+
+### Customising your static website with a Jekyll theme
+
+13. Click the link below and follow the steps by step details on how to add a jekyll theme to your site. 
 
 
 
