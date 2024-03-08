@@ -44,7 +44,7 @@ This readme document outlines the tasks and steps involved in formatting and hos
 13. Click the link below and follow the steps by step details on how to add a jekyll theme to your site.![Step13](https://github.com/idafum/idafum.github.io/blob/main/Step_13.png)
 
 
-## CONCLUSION
+## INSTRUCTNION SUMMARY
 Following the main tasks below and all the steps they include, you will be able to successfully format and host a static website. Drawing from the tools described in Etter's book, we've applied technical writing rules. We've utilized a learning process akin to what Etter describes, employing lightweight markup tools like Markdown for minimalistic design and using a distributed version control tool like GitHub for project management and contributions.
 
 - Learning your tools
@@ -52,3 +52,9 @@ Following the main tasks below and all the steps they include, you will be able 
 - Creating a repository using your GitHub account
 - Setting up GitHub Pages
 - Customizing your static website with a Jekyll theme
+
+## MORE RESOURCES
+- You can find Markdown tutorials [here](https://www.markdowntutorial.com/)
+- Getting started with [GitHub](https://docs.github.com/en/get-started/start-your-journey/hello-world)
+- Documentation in GitHub [Pages](https://docs.github.com/en/pages)
+- You can also create static site with themes using [jekyll](https://jekyllrb.com/)
