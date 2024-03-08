@@ -53,8 +53,9 @@ Following the main tasks below and all the steps they include, you will be able 
 - Setting up GitHub Pages
 - Customizing your static website with a Jekyll theme
 
-## GIF
-Click on ![link]([https://github.com/idafum/idafum.github.io/blob/main/Animated_Gif.mp4](https://github.com/idafum/idafum.github.io/blob/main/Annimated_Gif.gif)) below to watch a demo
+## ANNIMATED GIF
+![GIF Recording 2024-03-07 at 9 44 37 PM](https://github.com/idafum/idafum.github.io/assets/87254363/87e9bf0f-f94f-4002-a9c9-dc8a2cc75bb8)
+
 
 
 ## MORE RESOURCES
