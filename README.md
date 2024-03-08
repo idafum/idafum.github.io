@@ -44,7 +44,7 @@ This readme document outlines the tasks and steps involved in formatting and hos
 13. Click the link below and follow the steps by step details on how to add a jekyll theme to your site.![Step13](https://github.com/idafum/idafum.github.io/blob/main/Step_13.png)
 
 
-## INSTRUCTNION SUMMARY
+## INSTRUCTION SUMMARY
 Following the main tasks below and all the steps they include, you will be able to successfully format and host a static website. Drawing from the tools described in Etter's book, we've applied technical writing rules. We've utilized a learning process akin to what Etter describes, employing lightweight markup tools like Markdown for minimalistic design and using a distributed version control tool like GitHub for project management and contributions.
 
 - Learning your tools
@@ -58,3 +58,12 @@ Following the main tasks below and all the steps they include, you will be able 
 - Getting started with [GitHub](https://docs.github.com/en/get-started/start-your-journey/hello-world)
 - Documentation in GitHub [Pages](https://docs.github.com/en/pages)
 - You can also create static site with themes using [jekyll](https://jekyllrb.com/)
+
+## AUTHORS AND ACKNOWLEDGEMENTS
+I would like to give a huge shoutout to my professor Stewart Wilcox for providing me with the necessary tools needed to complete this project.
+
+I would also like to acknowledge Andrew Etter, the author of the book Modern Technical Writing. From this book, I learned important tools in technical writing and how write technical documents minimally. 
+
+I would also like to thank my group members namely, Neel and Brian for giving me feedback and highlighting important areas in this project. 
+
+
