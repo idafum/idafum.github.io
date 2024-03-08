@@ -31,16 +31,16 @@ This readme document outlines the tasks and steps involved in formatting and hos
      - Any update/change to your repository is know as a _commit_
 ### Setting up GitHub Pages
 
-9.    Click the icon below and open up settings.
+9.    Click the icon below and open up settings. ![Step9](https://github.com/idafum/idafum.github.io/blob/main/Step_9.png)
 
 10.    Navigate to _Pages_
-11.    Select Branch to _main_ and Save.
+11.    Select Branch to _main_ and Save. ![Step11](https://github.com/idafum/idafum.github.io/blob/main/Step_11.png)
        - This will set the source of your static website to the main branch of your repository.
-12. Reload the page after 2-3 minutes. Your static website URL will be generated.
+12. Reload the page after 2-3 minutes. Your static website URL will be generated. ![Step12](https://github.com/idafum/idafum.github.io/blob/main/Step_12.png)
 
 ### Customising your static website with a Jekyll theme
 
-13. Click the link below and follow the steps by step details on how to add a jekyll theme to your site. 
+13. Click the link below and follow the steps by step details on how to add a jekyll theme to your site.![Step13](https://github.com/idafum/idafum.github.io/blob/main/Step_13.png)
 
 
 
