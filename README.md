@@ -45,9 +45,10 @@ This readme document outlines the tasks and steps involved in formatting and hos
 
 
 ## CONCLUSION
-Follwing the main tasks below and all the step they include, you will be able to successfully format and host a static website. Given the tools described in Ether's book, we've employed technical writing rules, utilizing the learning process as ether described, to attain knowledge, utilizing lightweight markup tools like Markdown which enforces a minimalistic design and using a distributed version control tool like GitHub to allow for project management and contributions
+Following the main tasks below and all the steps they include, you will be able to successfully format and host a static website. Drawing from the tools described in Etter's book, we've applied technical writing rules. We've utilized a learning process akin to what Etter describes, employing lightweight markup tools like Markdown for minimalistic design and using a distributed version control tool like GitHub for project management and contributions.
+
 - Learning your tools
 - Formatting your document
-- Create a repository using your GitHub account
+- Creating a repository using your GitHub account
 - Setting up GitHub Pages
-- Customising your static website with a Jekyll theme
+- Customizing your static website with a Jekyll theme
