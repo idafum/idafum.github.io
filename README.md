@@ -17,9 +17,9 @@ This readme document outlines the tasks and steps involved in formatting and hos
 
 5.  Create an account on GitHub and log in.
 
-6.  Click on the _"+"_ sign in the upper right corner to create a new repository
+6.  Click on the _"+"_ sign in the upper right corner to create a new repository ![Step6](https://github.com/idafum/idafum.github.io/blob/main/Step_6.png)
 
-7.  Fill out the form
+7.  Fill out the form ![Step7](https://github.com/idafum/idafum.github.io/blob/main/Step_7.png)
 
     - Name your new repository using the format _<username>.github.io
     - Select _public_ to make your new repository accessible to anyone on the internet.
