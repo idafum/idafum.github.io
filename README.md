@@ -54,7 +54,7 @@ Following the main tasks below and all the steps they include, you will be able 
 - Customizing your static website with a Jekyll theme
 
 ## GIF
-Click on ![link](https://github.com/idafum/idafum.github.io/blob/main/Animated_Gif.mp4) below to watch a demo
+Click on ![link]([https://github.com/idafum/idafum.github.io/blob/main/Animated_Gif.mp4](https://github.com/idafum/idafum.github.io/blob/main/Annimated_Gif.gif)) below to watch a demo
 
 
 ## MORE RESOURCES
