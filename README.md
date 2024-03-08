@@ -53,6 +53,10 @@ Following the main tasks below and all the steps they include, you will be able 
 - Setting up GitHub Pages
 - Customizing your static website with a Jekyll theme
 
+## GIF
+Click on ![link](https://github.com/idafum/idafum.github.io/blob/main/Animated_Gif.mp4) below to watch a demo
+
+
 ## MORE RESOURCES
 - You can find Markdown tutorials [here](https://www.markdowntutorial.com/)
 - Getting started with [GitHub](https://docs.github.com/en/get-started/start-your-journey/hello-world)
@@ -72,6 +76,8 @@ I would also like to thank my group members namely, Neel and Brian for giving me
 2.    Why is my resume not showing up?
 
       - Remember to name your resume as index.md
+  
+## 
   
 
 
