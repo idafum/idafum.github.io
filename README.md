@@ -34,7 +34,9 @@ This readme document outlines the tasks and steps involved in formatting and hos
 9.    Click the icon below and open up settings.
 
 10.    Navigate to _Pages_
-11.    Select Branch to _main_ and Save.        
+11.    Select Branch to _main_ and Save.
+       - This will set the source of your static website to the main branch of your repository.
+12. Reload the page after 2-3 minutes. Your static website URL will be generated.        
 
 
 
